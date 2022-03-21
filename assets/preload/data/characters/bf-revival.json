@@ -1,0 +1,21 @@
+{
+	"asset": "BF_Revival",
+	"barColor": "#31B0D1",
+	"position": [0, 350],
+	"camPosition": [150, -100],
+	"startingAnim": "slumped",
+	"startingAnimIsSpecial": true,
+	"animations": [
+		{ "name": "idle", "prefix": "BF idle dance", "offsets": [0, 0] },
+		{ "name": "singUP", "prefix": "BF NOTE UP", "offsets": [-11, 26] },
+		{ "name": "singLEFT", "prefix": "BF NOTE LEFT", "offsets": [31, -7] },
+		{ "name": "singRIGHT", "prefix": "BF NOTE RIGHT", "offsets": [-43, -7] },
+		{ "name": "singDOWN", "prefix": "BF NOTE DOWN", "offsets": [-32, -51] },
+		{ "name": "slumped", "prefix": "BF Slumped", "offsets": [2, 3], "looped": true },
+		{ "name": "unslump", "prefix": "BF Unslump", "offsets": [5, 3], "frameRate": 12 }
+	],
+	"icon": {
+		"image": "bf",
+		"frames": [0, 0]
+	}
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spellbook.png">
+<SubTexture name="spin0000" x="0" y="0" width="99" height="46" frameX="-31" frameY="-54" frameWidth="144" frameHeight="112"/>
+<SubTexture name="spin0001" x="99" y="0" width="82" height="50" frameX="-39" frameY="-42" frameWidth="144" frameHeight="112"/>
+<SubTexture name="spin0002" x="181" y="0" width="87" height="66" frameX="-35" frameY="-30" frameWidth="144" frameHeight="112"/>
+<SubTexture name="spin0003" x="268" y="0" width="80" height="70" frameX="-36" frameY="-24" frameWidth="144" frameHeight="112"/>
+<SubTexture name="spin0004" x="348" y="0" width="68" height="67" frameX="-38" frameY="-22" frameWidth="144" frameHeight="112"/>
+<SubTexture name="spin0005" x="416" y="0" width="62" height="58" frameX="-36" frameY="-24" frameWidth="144" frameHeight="112"/>
+<SubTexture name="spin0006" x="0" y="74" width="75" height="54" frameX="-26" frameY="-22" frameWidth="144" frameHeight="112"/>
+<SubTexture name="spin0007" x="75" y="74" width="86" height="56" frameX="-20" frameY="-19" frameWidth="144" frameHeight="112"/>
+<SubTexture name="spin0008" x="161" y="74" width="92" height="57" frameX="-17" frameY="-17" frameWidth="144" frameHeight="112"/>
+<SubTexture name="spin0009" x="253" y="74" width="96" height="57" frameX="-14" frameY="-16" frameWidth="144" frameHeight="112"/>
+</TextureAtlas>

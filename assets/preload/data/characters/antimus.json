@@ -1,0 +1,28 @@
+{
+	"asset": "antimus",
+	"barColor": "#F2CB79",
+	"position": [0, 50],
+	"camPosition": [200, -100],
+	"startingAnim": "idle",
+	"animations": [
+		{ "name": "idle", "prefix": "Antimus Idle0", "offsets": [0, 0] },
+		{ "name": "singUP", "prefix": "Antimus Up0", "offsets": [34, 25] },
+		{ "name": "singRIGHT", "prefix": "Antimus Right0", "offsets": [-60, -19] },
+		{ "name": "singDOWN", "prefix": "Antimus Down0", "offsets": [23, -73] },
+		{ "name": "singLEFT", "prefix": "Antimus Left0", "offsets": [6, -43] },
+		{ "name": "singCENTER", "prefix": "Antimus Center0", "offsets": [7, 20] },
+		{ "name": "idle-alt", "prefix": "Antimus Idle Device", "offsets": [0, 0] },
+		{ "name": "singUP-alt", "prefix": "Antimus Up Device", "offsets": [34, 25] },
+		{ "name": "singRIGHT-alt", "prefix": "Antimus Right Device", "offsets": [-60, -19] },
+		{ "name": "singDOWN-alt", "prefix": "Antimus Down Device", "offsets": [23, -73] },
+		{ "name": "singLEFT-alt", "prefix": "Antimus Left Device", "offsets": [6, -43] },
+		{ "name": "singCENTER-alt", "prefix": "Antimus Center Device", "offsets": [7, 20] },
+		{ "name": "revealDevice", "prefix": "Take Out Device", "offsets": [0, 0] },
+		{ "name": "preSnap", "prefix": "Finger Snap Pre", "offsets": [1, 3] },
+		{ "name": "snap", "prefix": "Finger Snap Post", "offsets": [-8, -5] }
+	],
+	"icon": {
+		"image": "antimus",
+		"frames": [0, 0]
+	}
+}

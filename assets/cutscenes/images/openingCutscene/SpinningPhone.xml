@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SpinningPhone.png">
+<SubTexture name="anim0000" x="0" y="0" width="138" height="177" frameX="-16" frameY="-16" frameWidth="210" frameHeight="210"/>
+<SubTexture name="anim0001" x="138" y="0" width="182" height="168" frameX="-12" frameY="-15" frameWidth="210" frameHeight="210"/>
+<SubTexture name="anim0002" x="320" y="0" width="186" height="152" frameX="-11" frameY="-28" frameWidth="210" frameHeight="210"/>
+<SubTexture name="anim0003" x="0" y="191" width="138" height="177" frameX="-54" frameY="-16" frameWidth="210" frameHeight="210"/>
+<SubTexture name="anim0004" x="138" y="191" width="182" height="168" frameX="-13" frameY="-26" frameWidth="210" frameHeight="210"/>
+<SubTexture name="anim0005" x="320" y="191" width="185" height="151" frameX="-11" frameY="-29" frameWidth="210" frameHeight="210"/>
+</TextureAtlas>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="labCrack.png">
+<SubTexture name="idle0000" x="0" y="0" width="1" height="1"/>
+<SubTexture name="crack0000" x="0" y="0" width="396" height="208" frameX="-1582" frameY="-774" frameWidth="1978" frameHeight="1453"/>
+<SubTexture name="crack0001" x="396" y="0" width="751" height="340" frameX="-1227" frameY="-642" frameWidth="1978" frameHeight="1453"/>
+<SubTexture name="crack0002" x="1147" y="0" width="1141" height="348" frameX="-837" frameY="-634" frameWidth="1978" frameHeight="1453"/>
+<SubTexture name="crack0003" x="2288" y="0" width="1221" height="348" frameX="-757" frameY="-634" frameWidth="1978" frameHeight="1453"/>
+<SubTexture name="crack0004" x="2288" y="0" width="1221" height="348" frameX="-757" frameY="-634" frameWidth="1978" frameHeight="1453"/>
+<SubTexture name="crack0005" x="0" y="352" width="1605" height="348" frameX="-373" frameY="-634" frameWidth="1978" frameHeight="1453"/>
+<SubTexture name="crack0006" x="0" y="352" width="1605" height="348" frameX="-373" frameY="-634" frameWidth="1978" frameHeight="1453"/>
+<SubTexture name="crack0007" x="1605" y="352" width="1978" height="382" frameX="0" frameY="-600" frameWidth="1978" frameHeight="1453"/>
+</TextureAtlas>

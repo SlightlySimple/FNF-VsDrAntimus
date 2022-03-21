@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="selection.png">
+<SubTexture name="Center Box0000" x="0" y="0" width="975" height="261" frameX="-152" frameY="-11" frameWidth="1280" frameHeight="280"/>
+<SubTexture name="Center Box0001" x="0" y="0" width="975" height="261" frameX="-152" frameY="-11" frameWidth="1280" frameHeight="280"/>
+<SubTexture name="Center Box0002" x="0" y="265" width="973" height="258" frameX="-153" frameY="-12" frameWidth="1280" frameHeight="280"/>
+<SubTexture name="Center Box0003" x="0" y="265" width="973" height="258" frameX="-153" frameY="-12" frameWidth="1280" frameHeight="280"/>
+<SubTexture name="Left Arrow0000" x="973" y="265" width="41" height="50" frameX="-94" frameY="-111" frameWidth="1280" frameHeight="280"/>
+<SubTexture name="Left Arrow0001" x="973" y="265" width="41" height="50" frameX="-94" frameY="-111" frameWidth="1280" frameHeight="280"/>
+<SubTexture name="Left Arrow0002" x="0" y="527" width="41" height="50" frameX="-94" frameY="-111" frameWidth="1280" frameHeight="280"/>
+<SubTexture name="Left Arrow0003" x="0" y="527" width="41" height="50" frameX="-94" frameY="-111" frameWidth="1280" frameHeight="280"/>
+<SubTexture name="Right Arrow0000" x="41" y="527" width="33" height="51" frameX="-1147" frameY="-113" frameWidth="1280" frameHeight="280"/>
+<SubTexture name="Right Arrow0001" x="41" y="527" width="33" height="51" frameX="-1147" frameY="-113" frameWidth="1280" frameHeight="280"/>
+<SubTexture name="Right Arrow0002" x="74" y="527" width="35" height="52" frameX="-1147" frameY="-113" frameWidth="1280" frameHeight="280"/>
+<SubTexture name="Right Arrow0003" x="74" y="527" width="35" height="52" frameX="-1147" frameY="-113" frameWidth="1280" frameHeight="280"/>
+</TextureAtlas>

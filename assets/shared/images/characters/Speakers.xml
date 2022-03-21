@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Speakers.png">
+<SubTexture name="dat beat0000" x="0" y="0" width="698" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+<SubTexture name="dat beat0001" x="698" y="0" width="703" height="352" frameX="0" frameY="0" frameWidth="703" frameHeight="352"/>
+<SubTexture name="dat beat0002" x="698" y="0" width="703" height="352" frameX="0" frameY="0" frameWidth="703" frameHeight="352"/>
+<SubTexture name="dat beat0003" x="0" y="366" width="698" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+<SubTexture name="dat beat0004" x="0" y="0" width="698" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+</TextureAtlas>

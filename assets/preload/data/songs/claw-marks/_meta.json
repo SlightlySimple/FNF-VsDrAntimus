@@ -1,0 +1,53 @@
+{
+	"eventObjects": [
+		{
+			"position": 0, 
+			"type": "BPM Change", 
+			"name": "Init BPM", 
+			"value": 230
+		}, 
+		{
+			"position": 128, 
+			"type": "Strumline Push", 
+			"name": "Push 1", 
+			"value": 1
+		}, 
+		{
+			"position": 192, 
+			"type": "Strumline Push", 
+			"name": "Stop 1", 
+			"value": 0
+		}, 
+		{
+			"position": 256, 
+			"type": "Strumline Push", 
+			"name": "Push 2", 
+			"value": 1
+		}, 
+		{
+			"position": 320, 
+			"type": "Strumline Push", 
+			"name": "Stop 2", 
+			"value": 0
+		}, 
+		{
+			"position": 448, 
+			"type": "Strumline Push", 
+			"name": "Push 3", 
+			"value": 1
+		}, 
+		{
+			"position": 512, 
+			"type": "Strumline Push", 
+			"name": "Stop 3", 
+			"value": 0
+		}
+	], 
+	"fiveKey": true, 
+	"difficulties": [
+		"Hard", 
+		"Solo"
+	], 
+	"length": 174429, 
+	"offset": 0
+}

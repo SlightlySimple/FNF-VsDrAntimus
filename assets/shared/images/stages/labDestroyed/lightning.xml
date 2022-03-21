@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lightning.png">
+<SubTexture name="Strike 10000" x="0" y="0" width="404" height="398" frameX="-128" frameY="0" frameWidth="606" frameHeight="745"/>
+<SubTexture name="Strike 10001" x="404" y="0" width="606" height="745" frameX="0" frameY="0" frameWidth="606" frameHeight="745"/>
+<SubTexture name="Strike 10002" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="606" frameHeight="745"/>
+<SubTexture name="Strike 20000" x="1010" y="0" width="447" height="412" frameX="-134" frameY="0" frameWidth="659" frameHeight="648"/>
+<SubTexture name="Strike 20001" x="0" y="759" width="659" height="648" frameX="0" frameY="0" frameWidth="659" frameHeight="648"/>
+<SubTexture name="Strike 20002" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="659" frameHeight="648"/>
+<SubTexture name="Strike 30000" x="659" y="759" width="314" height="372" frameX="-245" frameY="0" frameWidth="737" frameHeight="722"/>
+<SubTexture name="Strike 30001" x="973" y="759" width="737" height="722" frameX="0" frameY="0" frameWidth="737" frameHeight="722"/>
+<SubTexture name="Strike 30002" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="737" frameHeight="722"/>
+<SubTexture name="Strike 40000" x="1710" y="759" width="311" height="387" frameX="-82" frameY="0" frameWidth="755" frameHeight="727"/>
+<SubTexture name="Strike 40001" x="0" y="1500" width="755" height="727" frameX="0" frameY="0" frameWidth="755" frameHeight="727"/>
+<SubTexture name="Strike 40002" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="755" frameHeight="727"/>
+<SubTexture name="Strike 50000" x="755" y="1500" width="293" height="451" frameX="-116" frameY="0" frameWidth="660" frameHeight="739"/>
+<SubTexture name="Strike 50001" x="1048" y="1500" width="660" height="739" frameX="0" frameY="0" frameWidth="660" frameHeight="739"/>
+<SubTexture name="Strike 50002" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="660" frameHeight="739"/>
+<SubTexture name="Strike 60000" x="0" y="2253" width="414" height="458" frameX="-137" frameY="0" frameWidth="667" frameHeight="697"/>
+<SubTexture name="Strike 60001" x="414" y="2253" width="667" height="697" frameX="0" frameY="0" frameWidth="667" frameHeight="697"/>
+<SubTexture name="Strike 60002" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="667" frameHeight="697"/>
+</TextureAtlas>

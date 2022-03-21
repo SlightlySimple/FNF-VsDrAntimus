@@ -1,0 +1,21 @@
+{
+	"asset": "GF_Eyeglow",
+	"position": [0, 0],
+	"camPosition": [0, 0],
+	"startingAnim": "idle",
+	"isPlayerCharacter": true,
+	"flipX": true,
+	"animations": [
+		{ "name": "idle", "prefix": "GF Idle", "offsets": [-62, -108], "looped": true },
+		{ "name": "singUP", "prefix": "GF Up0", "offsets": [-61, -57] },
+		{ "name": "singLEFT", "prefix": "GF Left0", "offsets": [2, -105] },
+		{ "name": "singRIGHT", "prefix": "GF Right0", "offsets": [-92, -110] },
+		{ "name": "singDOWN", "prefix": "GF Down0", "offsets": [-46, -139] },
+		{ "name": "singCENTER", "prefix": "GF Center0", "offsets": [-69, -108] },
+		{ "name": "singUPmiss", "prefix": "GF Up Miss", "offsets": [-146, -103] },
+		{ "name": "singLEFTmiss", "prefix": "GF Left Miss", "offsets": [-78, -140] },
+		{ "name": "singRIGHTmiss", "prefix": "GF Right Miss", "offsets": [-170, -126] },
+		{ "name": "singDOWNmiss", "prefix": "GF Down Miss", "offsets": [0, 0] },
+		{ "name": "singCENTERmiss", "prefix": "GF Center Miss", "offsets": [-143, -131] }
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"asset": "SkeleBitch",
+	"position": [0, 0],
+	"camPosition": [0, 0],
+	"startingAnim": "firstDeath",
+	"isPlayerCharacter": true,
+	"flipX": true,
+	"animations": [
+		{ "name": "firstDeath", "prefix": "GF Death0", "offsets": [0, -3] },
+		{ "name": "deathLoop", "prefix": "GF Death Loop0", "offsets": [0, -3] },
+		{ "name": "deathLoopAlt", "prefix": "GF Death Loop Eye Twitch", "offsets": [0, -3] },
+		{ "name": "deathConfirm", "prefix": "GF Retry", "offsets": [0, -3] }
+	]
+}

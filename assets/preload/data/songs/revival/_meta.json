@@ -1,0 +1,30 @@
+{
+	"eventObjects": [
+		{
+			"position": 0, 
+			"type": "BPM Change", 
+			"name": "Init BPM", 
+			"value": 120
+		}, 
+		{
+			"position": 170, 
+			"type": "Revival Event", 
+			"name": "Revival Event", 
+			"value": 1
+		}, 
+		{
+			"position": 170, 
+			"type": "Play Character Animation", 
+			"name": "dad;unslump", 
+			"value": 1
+		}
+	], 
+	"length": 100984, 
+	"difficulties": [
+		"Easy", 
+		"Normal", 
+		"Hard"
+	], 
+	"fiveKey": false, 
+	"offset": 0
+}

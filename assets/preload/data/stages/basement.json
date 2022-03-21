@@ -1,0 +1,16 @@
+{
+	"camZoom": 0.9,
+	"camPos": [ 800, 500 ],
+	"bfPos": [ 770, 100 ],
+	"dadPos": [ 160, -80 ],
+	"hideGirlfriend": true,
+	"pieces": [
+		{ "type": "static", "image": "walls", "position": [ -452, -332 ], "scrollFactor": [ 0.8, 0.8 ] },
+		{ "type": "static", "image": "toolTable", "position": [ -31, 430 ], "scrollFactor": [ 0.9, 0.9 ] },
+		{ "type": "animated", "image": "spellbook", "position": [ 606, 450 ], "scrollFactor": [ 0.9, 0.9 ], "animations": [
+			{ "name": "idle", "animName": "spin0009", "fps": 24, "loop": true },
+			{ "name": "spin", "animName": "spin", "fps": 24, "loop": false }
+		], "startingAnim": "idle" },
+		{ "type": "static", "image": "bfTable", "position": [ 18, 588 ], "scrollFactor": [ 1, 1 ] }
+	]
+}

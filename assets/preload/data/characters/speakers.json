@@ -1,0 +1,11 @@
+{
+	"asset": "Speakers",
+	"position": [0, 305],
+	"camPosition": [0, 0],
+	"startingAnim": "idle",
+	"danceType": "forcedDance",
+	"animations": [
+		{ "name": "idle", "prefix": "dat beat", "offsets": [0, 0]},
+		{ "name": "static", "prefix": "dat beat", "frameIndices": [4], "offsets": [0, 0]}
+	]
+}

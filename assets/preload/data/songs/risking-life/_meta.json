@@ -1,0 +1,67 @@
+{
+	"eventObjects": [
+		{
+			"position": 0, 
+			"type": "BPM Change", 
+			"name": "Init BPM", 
+			"value": 200
+		}, 
+		{
+			"position": 510, 
+			"type": "Play Character Animation", 
+			"name": "dad;revealDevice", 
+			"value": 1
+		}, 
+		{
+			"position": 512, 
+			"type": "Character Idle", 
+			"name": "dad", 
+			"value": 1
+		}, 
+		{
+			"position": 512, 
+			"type": "Risking Life Cutscene", 
+			"name": "Prevent Actual Death", 
+			"value": 1
+		}, 
+		{
+			"position": 532, 
+			"type": "Risking Life Cutscene", 
+			"name": "Health Drain 1", 
+			"value": 2
+		}, 
+		{
+			"position": 536, 
+			"type": "Risking Life Cutscene", 
+			"name": "Health Drain 2", 
+			"value": 3
+		}, 
+		{
+			"position": 540, 
+			"type": "Risking Life Cutscene", 
+			"name": "Health Drain 3", 
+			"value": 4
+		}, 
+		{
+			"position": 542, 
+			"type": "Risking Life Cutscene", 
+			"name": "Health Drain 4", 
+			"value": 5
+		}, 
+		{
+			"position": 544, 
+			"type": "Risking Life Cutscene", 
+			"name": "Yeetus", 
+			"value": 6
+		}
+	], 
+	"length": 169293, 
+	"difficulties": [
+		"Easy", 
+		"Normal", 
+		"Hard", 
+		"Solo"
+	], 
+	"fiveKey": true, 
+	"offset": 0
+}

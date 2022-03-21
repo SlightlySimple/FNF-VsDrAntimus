@@ -1,0 +1,43 @@
+{
+	"eventObjects": [
+		{
+			"position": 0, 
+			"type": "BPM Change", 
+			"name": "Init BPM", 
+			"value": 220
+		}, 
+		{
+			"position": 365, 
+			"type": "Play Character Animation", 
+			"name": "dad;preSnap", 
+			"value": 1
+		}, 
+		{
+			"position": 367, 
+			"type": "Play Character Animation", 
+			"name": "dad;snap", 
+			"value": 1
+		}, 
+		{
+			"position": 367, 
+			"type": "Strumline Reposition", 
+			"name": "Strumline Reposition", 
+			"value": 1
+		}, 
+		{
+			"position": 370, 
+			"type": "Character Idle", 
+			"name": "dad", 
+			"value": 1
+		}
+	], 
+	"length": 203187, 
+	"difficulties": [
+		"Easy", 
+		"Normal", 
+		"Hard", 
+		"Solo"
+	], 
+	"fiveKey": true, 
+	"offset": 0
+}

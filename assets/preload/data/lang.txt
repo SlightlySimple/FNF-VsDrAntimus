@@ -1,0 +1,258 @@
+loading|LOADING...
+loadingDone|LOADING COMPLETE!
+
+titleText1|SlightlySimple
+titleText2|Presents
+titleText3|Kade Engine
+titleText4|by
+titleText5|KadeDeveloper
+titleText6|Vs
+titleText7|Dr
+titleText8|Antimus
+
+dungeon|Dungeon
+risking-life|Risking Life
+vengeance|Vengeance
+revival|Revival
+claw-marks|Claw Marks
+
+weekScore|WEEK SCORE:
+
+songLocked|Locked
+easy|Easy
+normal|Normal
+hard|Hard
+solo|Solo
+beatInStoryMode|Beat this song in Story#Mode to unlock it#
+beatStoryMode|Beat Story Mode on Hard#to unlock this song#
+personalBest|PERSONAL BEST:
+rate|Rate:
+songLength|Length:
+songBpm|BPM:
+songTaps|Taps:
+songJumps|Jumps:
+songHolds|Holds:
+
+botplayDisplay|BOTPLAY
+
+optionsCatGameplay|Gameplay
+optionsCatAppearance|Appearance
+optionsCatMisc|Misc.
+optionsCatSaves|Saves
+optionsCatKeybinds|Editing Keybinds
+optionsCatJudgements|Editing Judgements
+optionsCatStepMania|Editing Quantization Settings
+
+optionsKeybindLeft|LEFT (4K):
+optionsKeybindDown|DOWN (4K):
+optionsKeybindUp|UP (4K):
+optionsKeybindRight|RIGHT (4K):
+optionsKeybindLeftFive|LEFT (5K):
+optionsKeybindDownFive|DOWN (5K):
+optionsKeybindCenter|CENTER (5K):
+optionsKeybindUpFive|UP (5K):
+optionsKeybindRightFive|RIGHT (5K):
+optionsKeybindPause|PAUSE:
+optionsKeybindReset|RESET:
+optionsKeybindMute|VOLUME MUTE:
+optionsKeybindVolUp|VOLUME UP:
+optionsKeybindVolDown|VOLUME DOWN:
+optionsKeybindFullscreen|FULLSCREEN:
+optionsKeybindEditor|CHART EDITOR:
+optionsMS| ms
+optionsMSSick|SICK:
+optionsMSGood|GOOD:
+optionsMSBad|BAD:
+optionsMSShit|SHIT:
+optionsRotateNotes0|Rotate Notes: < Disabled >
+optionsRotateNotes1|Rotate Notes: < Enabled >
+optionsQuantColor0|4TH NOTE:
+optionsQuantColor1|8TH NOTE:
+optionsQuantColor2|12TH NOTE:
+optionsQuantColor3|16TH NOTE:
+optionsQuantColor4|24TH NOTE:
+optionsQuantColor5|32ND NOTE:
+optionsQuantColorValue0|Purple
+optionsQuantColorValue1|Blue
+optionsQuantColorValue2|Yellow
+optionsQuantColorValue3|Green
+optionsQuantColorValue4|Red
+optionsNoteskin|Current Noteskin:
+optionsEditorRes|Editor Grid
+optionsEditorZoom|Default Editor Zoom:
+optionsDownscroll|Downscroll
+optionsDFJK|Edit Keybindings
+optionsJudgement|Edit Judgements
+optionsFPSCap|FPS Cap:
+optionsRefreshRate|Hz (Refresh Rate)
+optionsScrollSpeed|Scroll Speed:
+optionsAccuracyCalc0|Accuracy Mode: < Accurate >
+optionsAccuracyCalc1|Accuracy Mode: < Complex >
+optionsResetButton|Reset Button
+optionsInstantRespawn|Instant Respawn
+optionsOffsetThing|Note Offset:
+optionsBotplay|Botplay
+optionsCustomizeGameplay|Customize Gameplay
+optionsDistractions|Distractions
+optionsMiddleScroll|Middle Scroll
+optionsHealthBar|Health Bar
+optionsJudgementCounter|Judgement Counter
+optionsLaneUnderlay|Lane Transparency:
+optionsLaneBorder|Lane Border Width:
+optionsStepMania|Color Quantization
+optionsStepManiaAdvanced|Quantization Settings
+optionsCamZoom|Camera Zoom
+optionsAccuracy|Accuracy Display
+optionsSongPosition|Song Position Bar
+optionsColour|Colored HP Bars
+optionsNPSDisplay|NPS Display
+optionsRainbowFPS|FPS Rainbow
+optionsColorIcons|Colored Icons
+optionsFPS|FPS Counter
+optionsFlashingLights|Flashing Lights
+optionsWatermark|Watermarks
+optionsAntialiasing|Antialiasing
+optionsMissSounds|Miss Sounds
+optionsScoreScreen|Score Screen
+optionsShowInput|Extended Score Info
+optionsGraphicLoading|Preload Characters and Noteskins
+optionsExtraSongInfo|Extra Song Info
+optionsSubtitles|Subtitles
+optionsResetScore|Reset Score
+optionsResetScoreConfirm|Confirm Score Reset
+optionsResetSettings|Reset Settings
+optionsResetSettingsConfirm|Confirm Settings Reset
+
+optionsDescKeybindLeft|The left note's keybind in 4 key charts.
+optionsDescKeybindDown|The down note's keybind in 4 key charts.
+optionsDescKeybindUp|The up note's keybind in 4 key charts.
+optionsDescKeybindRight|The right note's keybind in 4 key charts.
+optionsDescKeybindLeftFive|The left note's keybind in 5 key charts.
+optionsDescKeybindDownFive|The down note's keybind in 5 key charts.
+optionsDescKeybindCenter|The center note's keybind.
+optionsDescKeybindUpFive|The up note's keybind in 5 key charts.
+optionsDescKeybindRightFive|The right note's keybind in 5 key charts.
+optionsDescKeybindPause|The keybind used to pause the game.
+optionsDescKeybindReset|The keybind used to die instantly.
+optionsDescKeybindMute|The keybind used to mute game audio.
+optionsDescKeybindVolUp|The keybind used to turn the volume up.
+optionsDescKeybindVolDown|The keybind used to turn the volume down.
+optionsDescKeybindFullscreen|The keybind used to fullscreen the game.
+optionsDescKeybindEditor|The keybind used to enter the chart editor in Free Play.
+optionsDescMSSick|How many milliseconds are in the SICK hit window (Press R to reset)
+optionsDescMSGood|How many milliseconds are in the GOOD hit window (Press R to reset)
+optionsDescMSBad|How many milliseconds are in the BAD hit window (Press R to reset)
+optionsDescMSShit|How many milliseconds are in the SHIT hit window (Press R to reset)
+optionsDescRotateNotes|Rotate notes to the proper direction (Recommended to disable if using a circle noteskin)
+optionsDescQuantColor0|The color quarter notes use when quantization colors are enabled.
+optionsDescQuantColor1|The color eighth notes use when quantization colors are enabled.
+optionsDescQuantColor2|The color twelfth notes use when quantization colors are enabled.
+optionsDescQuantColor3|The color sixteenth notes use when quantization colors are enabled.
+optionsDescQuantColor4|The color twenty fourth notes use when quantization colors are enabled.
+optionsDescQuantColor5|The color thirty second notes use when quantization colors are enabled.
+optionsDescNoteskin|Change your current noteskin.
+optionsDescEditorRes|Not showing the editor grid will greatly increase editor performance.
+optionsDescEditorZoom|What zoom the chart editor is at when you open it.
+optionsDescDownscroll|Toggle making the notes scroll down rather than up.
+optionsDescDFJK|Edit your keybindings.
+optionsDescJudgement|Create a custom judgement preset.
+optionsDescFPSCap|Change your FPS Cap.
+optionsDescScrollSpeed|Change your scroll speed. (1 = Chart dependent)
+optionsDescAccuracyCalc|Change how accuracy is calculated. (Accurate = Judgement Based, Complex = Milisecond Based)
+optionsDescResetButton|Toggle pressing R to instantly game over.
+optionsDescInstantRespawn|Toggle if you instantly respawn after dying.
+optionsDescOffsetThing|Offset the chart to counteract audio delays. (Value is in millseconds)
+optionsDescBotplay|Let the game play itself. (Freeplay Only, Songs you've beaten only)
+optionsDescCustomizeGameplay|Drag and drop gameplay modules to your preferred positions.
+optionsDescDistractions|Toggle stage distractions that can hinder your gameplay.
+optionsDescMiddleScroll|Remove the opponenet's strumline and place yours in the center of the screen.
+optionsDescHealthBar|Toggle health bar visibility.
+optionsDescJudgementCounter|Show the judgements you've gotten on the side of the screen.
+optionsDescLaneUnderlay|Controls the transparency of the black backgrounds behind each lane. (Higher = More visible)
+optionsDescLaneBorder|Controls the width (in pixels) on the left and right of the black lane backgrounds.
+optionsDescStepMania|Sets the colors of the notes depending on quantization instead of direction.
+optionsDescStepManiaAdvanced|Customize how quantization coloring works.
+optionsDescCamZoom|Toggle the camera zoom in-game.
+optionsDescAccuracy|Display accuracy information on the info bar.
+optionsDescSongPosition|Show the song's current position as a scrolling bar.
+optionsDescColour|Color the health bar based on the characters' icons.
+optionsDescNPSDisplay|Shows your current Notes Per Second on the info bar.
+optionsDescRainbowFPS|Make the FPS Counter flicker through rainbow colors.
+optionsDescColorIcons|Recolor the icons on the health bar to accurately resemble the characters.
+optionsDescFPS|Toggle the FPS Counter
+optionsDescFlashingLights|Toggle flashing lights that can cause epileptic seizures and strain.
+optionsDescWatermark|Toggle all watermarks from Kade Engine.
+optionsDescAntialiasing|Toggle antialiasing, improving graphics quality at a slight performance penalty.
+optionsDescMissSounds|Toggle miss sounds playing when you don't hit a note.
+optionsDescScoreScreen|Show the score screen after the end of a song (Freeplay Only)
+optionsDescShowInput|Display every single input on the score screen.
+optionsDescGraphicLoading|On startup, cache every character and noteskin. Significantly decrease load times. (HIGH MEMORY)
+optionsDescExtraSongInfo|Show extra information about each song in the Freeplay menu.
+optionsDescSubtitles|Display subtitles for Antimus' dialogue in cutscenes.
+optionsDescResetScore|Reset your score on all songs. This is irreversible!
+optionsDescResetSettings|Reset ALL your settings. This is irreversible!
+
+optionsUnavailableInPause|This option cannot be toggled in the pause menu.
+
+ratingNPS|NPS: {nps} (Max {maxNPS})
+ratingScore|Score: {score}
+ratingMisses|Combo Breaks: {misses}
+ratingAccuracy|Accuracy: {accuracy}
+judgementCounterSicks|Sicks:
+judgementCounterGoods|Goods:
+judgementCounterBads|Bads:
+judgementCounterShits|Shits:
+judgementCounterMisses|Misses:
+skipIntro|Press Space to Skip Intro
+
+pauseResume|Resume
+pauseRestart|Restart Song
+pauseSkip|Skip Song
+pauseOptions|Options
+pauseExit|Exit to menu
+
+resultScreenClear|Song Cleared!
+resultScreenJudgements|Judgements:
+resultScreenSicks|Sicks -
+resultScreenGoods|Goods -
+resultScreenBads|Bads -
+resultScreenMisses|Combo Breaks:
+resultScreenHighestCombo|Highest Combo:
+resultScreenScore|Score:
+resultScreenAccuracy|Accuracy:
+resultScreenRate|Rate:
+resultScreenReplaySong|F1 - Replay song
+resultScreenContinue|Press {key} to continue.
+resultScreenSettings|Mean: {mean}ms (SICK:{sickWindow}ms,GOOD:{goodWindow}ms,BAD:{badWindow}ms,SHIT:{shitWindow}ms)
+
+subtitleDoWhatYouAlways|Well, what does it matter? Let us do what you always do. Mic?
+subtitleHowCourteous|How courteous of you to drag your equipment all the way in here. How DO you lug that stereo around, anyways?
+subtitleMattersMuch|I don't think it matters much; I know the one thing you really care about.
+subtitleSomeParty|Heh. Some party, eh?
+subtitleThankYouMiss|Thank you, miss.
+subtitleWhiteLies|So I told a few little white lies to get you over here.
+
+subtitleCheating|That is... unless you're cheating.
+subtitleImJoking|Heh. I'm joking, obviously.
+subtitleLetMeKnow|Let me know if I'm right.
+subtitleNotBad|Not bad at all for a boy of small stature.
+subtitleTwistTheBattles|But there's something I believe you have to twist the battles in your favor.
+subtitleYourGirlfriend|Heh heh heh... Your girlfriend. What secrets is she keeping? What does her outward appearance hide?
+
+subtitleIllogicalNature|Somehow, despite the illogical nature of it, I've created a device that can counter it.
+subtitleItsYouIsntIt|After all, it's you, isn't it? The reason he can always recover from even... death itself.
+subtitleMissHimAlready|Aww, how adorable. Miss him already?
+subtitleMyTheory|Heheheheeeeh. Seems like my theory was true.
+subtitleNervesOfSteel|Those nerves of steel you've got seem to have been tossed aside! Heh heh hah hah hah haah!
+subtitlePushedTooHard|It happens every time he loses, doesn't it? Any time he's PUSHED too hard.
+subtitleTheSupernatural|The supernatural is a curious thing, especially for me as a man of... science and experimentation.
+
+subtitleAhFuck1|Aaahhaaahh!
+subtitleAhFuck2|Ah, fuck!
+subtitleSkillsImpressive|I must admit, your skills are impressive.
+subtitleSuchIntensity|I didn't even think it possible for such... INTENSITY to come from such a tiny body!
+subtitleYourLungs|Like how big can your lungs possibly even be?
+
+endText1|Good job!##If you want to unlock the Bonus Song,#beat the week on Hard.#
+endText2|Good job!##If you want to unlock the Bonus Song,#beat the week without skipping any songs#except the ones you've already beaten on Hard.#
+endText3|Congratulations!##You have unlocked the Bonus Song,#playable via the Free Play menu.#

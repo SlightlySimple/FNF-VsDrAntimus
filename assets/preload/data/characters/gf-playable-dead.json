@@ -1,0 +1,13 @@
+{
+	"asset": "GF_Yeeted",
+	"position": [0, 0],
+	"camPosition": [0, 0],
+	"startingAnim": "firstDeath",
+	"isPlayerCharacter": true,
+	"flipX": true,
+	"animations": [
+		{ "name": "firstDeath", "prefix": "GF Death0", "offsets": [9, 101] },
+		{ "name": "deathLoop", "prefix": "GF Death Loop", "offsets": [-17, 107] },
+		{ "name": "deathConfirm", "prefix": "GF Retry", "offsets": [-17, 117] }
+	]
+}

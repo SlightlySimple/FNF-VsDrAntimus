@@ -1,0 +1,16 @@
+{
+	"camZoom": 0.9,
+	"camPos": [ 700, 400 ],
+	"bfPos": [ 970, 100 ],
+	"gfPos": [ 400, 130 ],
+	"dadPos": [ 100, 100 ],
+	"pieces": [
+		{ "type": "static", "image": "back", "position": [ -195, -415 ], "scrollFactor": [ 0.8, 0.9 ] },
+		{ "type": "static", "image": "objects", "position": [ 65, 255 ], "scrollFactor": [ 0.825, 0.9 ] },
+		{ "type": "animated", "image": "SpinningTape", "position": [ 809, 291 ], "scrollFactor": [ 0.825, 0.9 ], "animations": [ { "name": "idle", "animName": "FORWARD", "fps": 30, "loop": true } ], "startingAnim": "idle" },
+		{ "type": "animated", "image": "SpinningTape", "position": [ 810, 450 ], "scrollFactor": [ 0.825, 0.9 ], "animations": [ { "name": "idle", "animName": "BACKWARD", "fps": 45, "loop": true } ], "startingAnim": "idle" },
+		{ "type": "animated", "image": "SpinningTape", "position": [ 996, 299 ], "scrollFactor": [ 0.825, 0.9 ], "animations": [ { "name": "idle", "animName": "BACKWARD", "fps": 65, "loop": true } ], "startingAnim": "idle" },
+		{ "type": "animated", "image": "SpinningTape", "position": [ 996, 458 ], "scrollFactor": [ 0.825, 0.9 ], "animations": [ { "name": "idle", "animName": "FORWARD", "fps": 38, "loop": true } ], "startingAnim": "idle" },
+		{ "type": "static", "image": "door", "position": [ 1145, 45 ], "scrollFactor": [ 0.8, 0.9 ] }
+	]
+}

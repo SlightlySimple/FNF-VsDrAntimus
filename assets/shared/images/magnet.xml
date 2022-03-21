@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="magnet.png">
+<SubTexture name="Enter0000" x="0" y="0" width="243" height="158" frameX="-12" frameY="-11" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Enter0001" x="243" y="0" width="238" height="159" frameX="-12" frameY="-73" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Enter0002" x="481" y="0" width="234" height="176" frameX="-14" frameY="-119" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Enter0003" x="715" y="0" width="226" height="187" frameX="-28" frameY="-157" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Enter0004" x="941" y="0" width="210" height="218" frameX="-53" frameY="-159" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Enter0005" x="1151" y="0" width="189" height="238" frameX="-85" frameY="-160" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Enter0006" x="1340" y="0" width="170" height="248" frameX="-119" frameY="-161" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Enter0007" x="1510" y="0" width="159" height="250" frameX="-153" frameY="-163" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Enter0008" x="1669" y="0" width="154" height="252" frameX="-182" frameY="-164" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Enter0009" x="1823" y="0" width="155" height="254" frameX="-203" frameY="-166" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Enter0010" x="0" y="270" width="161" height="256" frameX="-218" frameY="-167" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Enter0011" x="161" y="270" width="166" height="257" frameX="-229" frameY="-169" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Enter0012" x="327" y="270" width="169" height="257" frameX="-238" frameY="-171" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Enter0013" x="496" y="270" width="172" height="256" frameX="-241" frameY="-172" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Enter0014" x="668" y="270" width="173" height="255" frameX="-243" frameY="-173" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Enter0015" x="841" y="270" width="172" height="255" frameX="-241" frameY="-174" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Enter0016" x="1013" y="270" width="170" height="255" frameX="-238" frameY="-174" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Enter0017" x="1183" y="270" width="167" height="255" frameX="-232" frameY="-174" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Enter0018" x="1350" y="270" width="164" height="254" frameX="-225" frameY="-174" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Enter0019" x="1514" y="270" width="160" height="254" frameX="-218" frameY="-174" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Enter0020" x="1674" y="270" width="158" height="254" frameX="-209" frameY="-174" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Enter0021" x="1832" y="270" width="154" height="255" frameX="-201" frameY="-173" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Enter0022" x="0" y="541" width="154" height="254" frameX="-194" frameY="-173" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Enter0023" x="154" y="541" width="153" height="254" frameX="-189" frameY="-173" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Enter0024" x="307" y="541" width="153" height="253" frameX="-187" frameY="-173" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Loop0000" x="460" y="541" width="153" height="253" frameX="-187" frameY="-173" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Loop0001" x="460" y="541" width="153" height="253" frameX="-187" frameY="-173" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Loop0002" x="613" y="541" width="162" height="313" frameX="-183" frameY="-173" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Loop0003" x="613" y="541" width="162" height="313" frameX="-183" frameY="-173" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Loop0004" x="775" y="541" width="153" height="290" frameX="-187" frameY="-173" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Loop0005" x="775" y="541" width="153" height="290" frameX="-187" frameY="-173" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Loop0006" x="928" y="541" width="153" height="275" frameX="-187" frameY="-173" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Loop0007" x="928" y="541" width="153" height="275" frameX="-187" frameY="-173" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Exit0000" x="1081" y="541" width="153" height="253" frameX="-185" frameY="-173" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Exit0001" x="1234" y="541" width="154" height="253" frameX="-174" frameY="-172" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Exit0002" x="1388" y="541" width="159" height="253" frameX="-155" frameY="-170" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Exit0003" x="1547" y="541" width="168" height="252" frameX="-128" frameY="-168" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Exit0004" x="1715" y="541" width="177" height="247" frameX="-98" frameY="-165" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Exit0005" x="0" y="868" width="201" height="232" frameX="-66" frameY="-162" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Exit0006" x="201" y="868" width="234" height="205" frameX="-36" frameY="-158" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Exit0007" x="435" y="868" width="256" height="180" frameX="-16" frameY="-134" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Exit0008" x="691" y="868" width="251" height="161" frameX="-12" frameY="-84" frameWidth="420" frameHeight="500"/>
+<SubTexture name="Exit0009" x="942" y="868" width="243" height="158" frameX="-12" frameY="-11" frameWidth="420" frameHeight="500"/>
+</TextureAtlas>

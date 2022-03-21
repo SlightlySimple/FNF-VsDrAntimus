@@ -1,0 +1,24 @@
+{
+	"asset": "GIRLFRIEND",
+	"barColor": "#A5004D",
+	"position": [0, 250],
+	"camPosition": [100, -100],
+	"startingAnim": "idle",
+	"isPlayerCharacter": true,
+	"flipX": true,
+	"animations": [
+		{ "name": "idle", "prefix": "GF Idle", "offsets": [0, 0] },
+		{ "name": "singUP", "prefix": "GF Up0", "offsets": [-16, 7] },
+		{ "name": "singLEFT", "prefix": "GF Left0", "offsets": [-8, 0] },
+		{ "name": "singRIGHT", "prefix": "GF Right0", "offsets": [-19, 0] },
+		{ "name": "singDOWN", "prefix": "GF Down0", "offsets": [-5, -8] },
+		{ "name": "singUPmiss", "prefix": "GF Up Miss", "offsets": [-12, 32] },
+		{ "name": "singLEFTmiss", "prefix": "GF Left Miss", "offsets": [-8, 26] },
+		{ "name": "singRIGHTmiss", "prefix": "GF Right Miss", "offsets": [-7, 15] },
+		{ "name": "singDOWNmiss", "prefix": "GF Down Miss", "offsets": [1, 28] }
+	],
+	"icon": {
+		"image": "gf",
+		"frames": [0, 1]
+	}
+}

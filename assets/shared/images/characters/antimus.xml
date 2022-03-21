@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="antimus.png">
+<SubTexture name="Antimus Idle0000" x="0" y="0" width="435" height="692" frameX="-24" frameY="-22" frameWidth="449" frameHeight="716"/>
+<SubTexture name="Antimus Idle0001" x="0" y="0" width="435" height="692" frameX="-24" frameY="-22" frameWidth="449" frameHeight="716"/>
+<SubTexture name="Antimus Idle0002" x="435" y="0" width="442" height="701" frameX="-15" frameY="-14" frameWidth="449" frameHeight="716"/>
+<SubTexture name="Antimus Idle0003" x="435" y="0" width="442" height="701" frameX="-15" frameY="-14" frameWidth="449" frameHeight="716"/>
+<SubTexture name="Antimus Idle0004" x="877" y="0" width="446" height="708" frameX="-8" frameY="-7" frameWidth="449" frameHeight="716"/>
+<SubTexture name="Antimus Idle0005" x="877" y="0" width="446" height="708" frameX="-8" frameY="-7" frameWidth="449" frameHeight="716"/>
+<SubTexture name="Antimus Idle0006" x="1323" y="0" width="448" height="713" frameX="-3" frameY="-3" frameWidth="449" frameHeight="716"/>
+<SubTexture name="Antimus Idle0007" x="1323" y="0" width="448" height="713" frameX="-3" frameY="-3" frameWidth="449" frameHeight="716"/>
+<SubTexture name="Antimus Idle0008" x="1771" y="0" width="449" height="715" frameX="0" frameY="-1" frameWidth="449" frameHeight="716"/>
+<SubTexture name="Antimus Idle0009" x="1771" y="0" width="449" height="715" frameX="0" frameY="-1" frameWidth="449" frameHeight="716"/>
+<SubTexture name="Antimus Idle0010" x="2220" y="0" width="448" height="716" frameX="0" frameY="0" frameWidth="449" frameHeight="716"/>
+<SubTexture name="Antimus Idle0011" x="2220" y="0" width="448" height="716" frameX="0" frameY="0" frameWidth="449" frameHeight="716"/>
+<SubTexture name="Antimus Idle0012" x="2220" y="0" width="448" height="716" frameX="0" frameY="0" frameWidth="449" frameHeight="716"/>
+<SubTexture name="Antimus Idle0013" x="2220" y="0" width="448" height="716" frameX="0" frameY="0" frameWidth="449" frameHeight="716"/>
+<SubTexture name="Antimus Down0000" x="6287" y="0" width="533" height="627" frameX="-8" frameY="-14" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down0001" x="6820" y="0" width="549" height="638" frameX="-4" frameY="-3" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down0002" x="7369" y="0" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down0003" x="7369" y="0" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down0004" x="7369" y="0" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down0005" x="7369" y="0" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down0006" x="7369" y="0" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down0007" x="7369" y="0" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down0008" x="7369" y="0" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down0009" x="7369" y="0" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down0010" x="7369" y="0" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down0011" x="7369" y="0" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down0012" x="7369" y="0" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down0013" x="7369" y="0" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down0014" x="7369" y="0" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down0015" x="7369" y="0" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down0016" x="7369" y="0" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down0017" x="7369" y="0" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down0018" x="7369" y="0" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down0019" x="7369" y="0" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Left0000" x="5206" y="0" width="363" height="647" frameX="0" frameY="-20" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left0001" x="5569" y="0" width="358" height="662" frameX="-6" frameY="-5" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left0002" x="5927" y="0" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left0003" x="5927" y="0" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left0004" x="5927" y="0" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left0005" x="5927" y="0" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left0006" x="5927" y="0" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left0007" x="5927" y="0" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left0008" x="5927" y="0" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left0009" x="5927" y="0" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left0010" x="5927" y="0" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left0011" x="5927" y="0" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left0012" x="5927" y="0" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left0013" x="5927" y="0" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left0014" x="5927" y="0" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left0015" x="5927" y="0" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left0016" x="5927" y="0" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left0017" x="5927" y="0" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left0018" x="5927" y="0" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left0019" x="5927" y="0" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Right0000" x="2668" y="0" width="453" height="692" frameX="-1" frameY="-4" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right0001" x="3121" y="0" width="439" height="695" frameX="-1" frameY="-1" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right0002" x="3560" y="0" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right0003" x="3560" y="0" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right0004" x="3560" y="0" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right0005" x="3560" y="0" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right0006" x="3560" y="0" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right0007" x="3560" y="0" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right0008" x="3560" y="0" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right0009" x="3560" y="0" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right0010" x="3560" y="0" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right0011" x="3560" y="0" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right0012" x="3560" y="0" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right0013" x="3560" y="0" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right0014" x="3560" y="0" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right0015" x="3560" y="0" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right0016" x="3560" y="0" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right0017" x="3560" y="0" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right0018" x="3560" y="0" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right0019" x="3560" y="0" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Up0000" x="3994" y="0" width="397" height="741" frameX="-15" frameY="0" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up0001" x="4391" y="0" width="406" height="731" frameX="-3" frameY="-9" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up0002" x="4797" y="0" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up0003" x="4797" y="0" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up0004" x="4797" y="0" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up0005" x="4797" y="0" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up0006" x="4797" y="0" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up0007" x="4797" y="0" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up0008" x="4797" y="0" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up0009" x="4797" y="0" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up0010" x="4797" y="0" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up0011" x="4797" y="0" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up0012" x="4797" y="0" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up0013" x="4797" y="0" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up0014" x="4797" y="0" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up0015" x="4797" y="0" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up0016" x="4797" y="0" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up0017" x="4797" y="0" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up0018" x="4797" y="0" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up0019" x="4797" y="0" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Center0000" x="0" y="745" width="360" height="734" frameX="-13" frameY="0" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center0001" x="360" y="745" width="370" height="729" frameX="-3" frameY="-3" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center0002" x="730" y="745" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center0003" x="730" y="745" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center0004" x="730" y="745" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center0005" x="730" y="745" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center0006" x="730" y="745" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center0007" x="730" y="745" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center0008" x="730" y="745" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center0009" x="730" y="745" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center0010" x="730" y="745" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center0011" x="730" y="745" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center0012" x="730" y="745" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center0013" x="730" y="745" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center0014" x="730" y="745" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center0015" x="730" y="745" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center0016" x="730" y="745" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center0017" x="730" y="745" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center0018" x="730" y="745" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center0019" x="730" y="745" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Take Out Device0000" x="4302" y="745" width="448" height="716" frameX="0" frameY="0" frameWidth="448" frameHeight="716"/>
+<SubTexture name="Take Out Device0001" x="4302" y="745" width="448" height="716" frameX="0" frameY="0" frameWidth="448" frameHeight="716"/>
+<SubTexture name="Take Out Device0002" x="4750" y="745" width="448" height="716" frameX="0" frameY="0" frameWidth="448" frameHeight="716"/>
+<SubTexture name="Take Out Device0003" x="4750" y="745" width="448" height="716" frameX="0" frameY="0" frameWidth="448" frameHeight="716"/>
+<SubTexture name="Take Out Device0004" x="5198" y="745" width="448" height="716" frameX="0" frameY="0" frameWidth="448" frameHeight="716"/>
+<SubTexture name="Take Out Device0005" x="5198" y="745" width="448" height="716" frameX="0" frameY="0" frameWidth="448" frameHeight="716"/>
+<SubTexture name="Antimus Idle Device0000" x="5646" y="745" width="446" height="692" frameX="-13" frameY="-22" frameWidth="449" frameHeight="716"/>
+<SubTexture name="Antimus Idle Device0001" x="5646" y="745" width="446" height="692" frameX="-13" frameY="-22" frameWidth="449" frameHeight="716"/>
+<SubTexture name="Antimus Idle Device0002" x="6092" y="745" width="446" height="701" frameX="-11" frameY="-14" frameWidth="449" frameHeight="716"/>
+<SubTexture name="Antimus Idle Device0003" x="6092" y="745" width="446" height="701" frameX="-11" frameY="-14" frameWidth="449" frameHeight="716"/>
+<SubTexture name="Antimus Idle Device0004" x="6538" y="745" width="446" height="708" frameX="-8" frameY="-7" frameWidth="449" frameHeight="716"/>
+<SubTexture name="Antimus Idle Device0005" x="6538" y="745" width="446" height="708" frameX="-8" frameY="-7" frameWidth="449" frameHeight="716"/>
+<SubTexture name="Antimus Idle Device0006" x="6984" y="745" width="448" height="713" frameX="-3" frameY="-3" frameWidth="449" frameHeight="716"/>
+<SubTexture name="Antimus Idle Device0007" x="6984" y="745" width="448" height="713" frameX="-3" frameY="-3" frameWidth="449" frameHeight="716"/>
+<SubTexture name="Antimus Idle Device0008" x="7432" y="745" width="449" height="715" frameX="0" frameY="-1" frameWidth="449" frameHeight="716"/>
+<SubTexture name="Antimus Idle Device0009" x="7432" y="745" width="449" height="715" frameX="0" frameY="-1" frameWidth="449" frameHeight="716"/>
+<SubTexture name="Antimus Idle Device0010" x="0" y="1483" width="448" height="716" frameX="0" frameY="0" frameWidth="449" frameHeight="716"/>
+<SubTexture name="Antimus Idle Device0011" x="0" y="1483" width="448" height="716" frameX="0" frameY="0" frameWidth="449" frameHeight="716"/>
+<SubTexture name="Antimus Idle Device0012" x="0" y="1483" width="448" height="716" frameX="0" frameY="0" frameWidth="449" frameHeight="716"/>
+<SubTexture name="Antimus Idle Device0013" x="0" y="1483" width="448" height="716" frameX="0" frameY="0" frameWidth="449" frameHeight="716"/>
+<SubTexture name="Antimus Down Device0000" x="4067" y="1483" width="533" height="627" frameX="-8" frameY="-14" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down Device0001" x="4600" y="1483" width="549" height="638" frameX="-4" frameY="-3" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down Device0002" x="5149" y="1483" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down Device0003" x="5149" y="1483" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down Device0004" x="5149" y="1483" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down Device0005" x="5149" y="1483" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down Device0006" x="5149" y="1483" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down Device0007" x="5149" y="1483" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down Device0008" x="5149" y="1483" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down Device0009" x="5149" y="1483" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down Device0010" x="5149" y="1483" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down Device0011" x="5149" y="1483" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down Device0012" x="5149" y="1483" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down Device0013" x="5149" y="1483" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down Device0014" x="5149" y="1483" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down Device0015" x="5149" y="1483" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down Device0016" x="5149" y="1483" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down Device0017" x="5149" y="1483" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down Device0018" x="5149" y="1483" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Down Device0019" x="5149" y="1483" width="556" height="641" frameX="0" frameY="0" frameWidth="556" frameHeight="641"/>
+<SubTexture name="Antimus Left Device0000" x="2986" y="1483" width="363" height="647" frameX="0" frameY="-20" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left Device0001" x="3349" y="1483" width="358" height="662" frameX="-6" frameY="-5" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left Device0002" x="3707" y="1483" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left Device0003" x="3707" y="1483" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left Device0004" x="3707" y="1483" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left Device0005" x="3707" y="1483" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left Device0006" x="3707" y="1483" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left Device0007" x="3707" y="1483" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left Device0008" x="3707" y="1483" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left Device0009" x="3707" y="1483" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left Device0010" x="3707" y="1483" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left Device0011" x="3707" y="1483" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left Device0012" x="3707" y="1483" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left Device0013" x="3707" y="1483" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left Device0014" x="3707" y="1483" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left Device0015" x="3707" y="1483" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left Device0016" x="3707" y="1483" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left Device0017" x="3707" y="1483" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left Device0018" x="3707" y="1483" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Left Device0019" x="3707" y="1483" width="360" height="667" frameX="-5" frameY="0" frameWidth="363" frameHeight="667"/>
+<SubTexture name="Antimus Right Device0000" x="448" y="1483" width="453" height="692" frameX="-1" frameY="-4" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right Device0001" x="901" y="1483" width="439" height="695" frameX="-1" frameY="-1" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right Device0002" x="1340" y="1483" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right Device0003" x="1340" y="1483" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right Device0004" x="1340" y="1483" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right Device0005" x="1340" y="1483" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right Device0006" x="1340" y="1483" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right Device0007" x="1340" y="1483" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right Device0008" x="1340" y="1483" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right Device0009" x="1340" y="1483" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right Device0010" x="1340" y="1483" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right Device0011" x="1340" y="1483" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right Device0012" x="1340" y="1483" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right Device0013" x="1340" y="1483" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right Device0014" x="1340" y="1483" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right Device0015" x="1340" y="1483" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right Device0016" x="1340" y="1483" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right Device0017" x="1340" y="1483" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right Device0018" x="1340" y="1483" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Right Device0019" x="1340" y="1483" width="434" height="696" frameX="0" frameY="0" frameWidth="453" frameHeight="696"/>
+<SubTexture name="Antimus Up Device0000" x="1774" y="1483" width="397" height="741" frameX="-15" frameY="0" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up Device0001" x="2171" y="1483" width="406" height="731" frameX="-3" frameY="-9" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up Device0002" x="2577" y="1483" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up Device0003" x="2577" y="1483" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up Device0004" x="2577" y="1483" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up Device0005" x="2577" y="1483" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up Device0006" x="2577" y="1483" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up Device0007" x="2577" y="1483" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up Device0008" x="2577" y="1483" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up Device0009" x="2577" y="1483" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up Device0010" x="2577" y="1483" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up Device0011" x="2577" y="1483" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up Device0012" x="2577" y="1483" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up Device0013" x="2577" y="1483" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up Device0014" x="2577" y="1483" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up Device0015" x="2577" y="1483" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up Device0016" x="2577" y="1483" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up Device0017" x="2577" y="1483" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up Device0018" x="2577" y="1483" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Up Device0019" x="2577" y="1483" width="409" height="729" frameX="0" frameY="-12" frameWidth="409" frameHeight="741"/>
+<SubTexture name="Antimus Center Device0000" x="5705" y="1483" width="360" height="734" frameX="-13" frameY="0" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center Device0001" x="6065" y="1483" width="370" height="729" frameX="-3" frameY="-3" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center Device0002" x="6435" y="1483" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center Device0003" x="6435" y="1483" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center Device0004" x="6435" y="1483" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center Device0005" x="6435" y="1483" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center Device0006" x="6435" y="1483" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center Device0007" x="6435" y="1483" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center Device0008" x="6435" y="1483" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center Device0009" x="6435" y="1483" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center Device0010" x="6435" y="1483" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center Device0011" x="6435" y="1483" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center Device0012" x="6435" y="1483" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center Device0013" x="6435" y="1483" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center Device0014" x="6435" y="1483" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center Device0015" x="6435" y="1483" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center Device0016" x="6435" y="1483" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center Device0017" x="6435" y="1483" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center Device0018" x="6435" y="1483" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Antimus Center Device0019" x="6435" y="1483" width="373" height="728" frameX="0" frameY="-4" frameWidth="373" frameHeight="734"/>
+<SubTexture name="Finger Snap Pre0000" x="1103" y="745" width="362" height="718" frameX="0" frameY="-1" frameWidth="362" frameHeight="721"/>
+<SubTexture name="Finger Snap Pre0001" x="1103" y="745" width="362" height="718" frameX="0" frameY="-1" frameWidth="362" frameHeight="721"/>
+<SubTexture name="Finger Snap Pre0002" x="1465" y="745" width="362" height="718" frameX="0" frameY="-1" frameWidth="362" frameHeight="721"/>
+<SubTexture name="Finger Snap Pre0003" x="1465" y="745" width="362" height="718" frameX="0" frameY="-1" frameWidth="362" frameHeight="721"/>
+<SubTexture name="Finger Snap Pre0004" x="1827" y="745" width="362" height="721" frameX="-1" frameY="0" frameWidth="362" frameHeight="721"/>
+<SubTexture name="Finger Snap Pre0005" x="1827" y="745" width="362" height="721" frameX="-1" frameY="0" frameWidth="362" frameHeight="721"/>
+<SubTexture name="Finger Snap Pre0006" x="2189" y="745" width="362" height="721" frameX="-1" frameY="0" frameWidth="362" frameHeight="721"/>
+<SubTexture name="Finger Snap Pre0007" x="2189" y="745" width="362" height="721" frameX="-1" frameY="0" frameWidth="362" frameHeight="721"/>
+<SubTexture name="Finger Snap Pre0008" x="2551" y="745" width="362" height="721" frameX="-1" frameY="0" frameWidth="362" frameHeight="721"/>
+<SubTexture name="Finger Snap Pre0009" x="2551" y="745" width="362" height="721" frameX="-1" frameY="0" frameWidth="362" frameHeight="721"/>
+<SubTexture name="Finger Snap Post0000" x="2913" y="745" width="354" height="713" frameX="0" frameY="0" frameWidth="354" frameHeight="713"/>
+<SubTexture name="Finger Snap Post0001" x="3267" y="745" width="354" height="713" frameX="0" frameY="0" frameWidth="354" frameHeight="713"/>
+<SubTexture name="Finger Snap Post0002" x="3621" y="745" width="343" height="696" frameX="-11" frameY="-17" frameWidth="354" frameHeight="713"/>
+<SubTexture name="Finger Snap Post0003" x="3964" y="745" width="338" height="683" frameX="-16" frameY="-30" frameWidth="354" frameHeight="713"/>
+</TextureAtlas>

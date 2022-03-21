@@ -1,0 +1,30 @@
+{
+	"bpm": 130,
+	"backgroundColor": "black",
+	"seqBackgroundColor": "black",
+	"startingSequence": [
+		{ "type": "deleteCoolText" },
+		{ "type": "addMoreText", "text": [ "titleText1" ] },
+		{ "type": "none" },
+		{ "type": "addMoreText", "text": [ "titleText2" ] },
+		{ "type": "deleteCoolText" },
+		{ "type": "addMoreText", "text": [ "titleText3", "titleText4" ] },
+		{ "type": "none" },
+		{ "type": "addMoreText", "text": [ "titleText5" ] },
+		{ "type": "deleteCoolText" },
+		{ "type": "addMoreText", "text": [ "curWacky0" ] },
+		{ "type": "none" },
+		{ "type": "addMoreText", "text": [ "curWacky1" ] },
+		{ "type": "deleteCoolText" },
+		{ "type": "addMoreText", "text": [ "titleText6" ] },
+		{ "type": "addMoreText", "text": [ "titleText7" ] },
+		{ "type": "addMoreText", "text": [ "titleText8" ] },
+		{ "type": "skipIntro" }
+	],
+	"pieces": [
+		{ "type": "animateOnBeat", "image": "antimusTitle", "position": [580, 25], "animations": [ { "name": "idle", "animName": "antimusBop", "fps": 24, "loop": false } ] },
+		{ "type": "logo", "image": "logo", "position": [-150, 1500], "finalPosition": [-150, -100], "sizes": [0.94, 0.95, 1] },
+		{ "type": "pressEnter", "image": "titleEnter", "position": [70, 545], "animations": [ { "name": "idle", "animName": "Press Enter", "fps": 24, "loop": true }, { "name": "press", "animName": "ENTER PRESSED0", "fps": 24, "loop": true } ] },
+		{ "type": "pressEnter", "id": "enterSubtitle", "image": "titleEnter", "position": [150, 620], "animations": [ { "name": "idle", "animName": "To Begin", "fps": 24, "loop": true }, { "name": "press", "animName": "ENTER PRESSED SUB", "fps": 24, "loop": true } ] }
+	]
+}

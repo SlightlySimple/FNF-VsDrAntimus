@@ -1,0 +1,19 @@
+{
+	"eventObjects": [
+		{
+			"position": 0, 
+			"type": "BPM Change", 
+			"name": "Init BPM", 
+			"value": 180
+		}
+	], 
+	"length": 105336, 
+	"difficulties": [
+		"Easy", 
+		"Normal", 
+		"Hard", 
+		"Solo"
+	], 
+	"fiveKey": false, 
+	"offset": 0
+}

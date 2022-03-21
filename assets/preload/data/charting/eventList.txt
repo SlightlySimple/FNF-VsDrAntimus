@@ -1,0 +1,7 @@
+BPM Change
+Scroll Speed Change
+Play Character Animation
+Strumline Reposition
+Strumline Push
+Risking Life Cutscene
+Revival Event

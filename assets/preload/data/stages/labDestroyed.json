@@ -1,0 +1,33 @@
+{
+	"camZoom": 0.5,
+	"camPos": [ 700, 300 ],
+	"bfPos": [ 1070, 100 ],
+	"gfPos": [ 400, 130 ],
+	"dadPos": [ 100, 100 ],
+	"pieces": [
+		{ "type": "static", "image": "sky", "position": [ -650, -400 ], "scrollFactor": [ 0, 0 ] },
+		{ "type": "static", "id": "cloud1", "image": "clouds1", "position": [ -1000, -500 ], "scrollFactor": [ 0.15, 0.15 ] },
+		{ "type": "static", "id": "cloud2", "image": "clouds2", "position": [ 500, -650 ], "scrollFactor": [ 0.15, 0.15 ] },
+		{ "type": "static", "id": "cloud3", "image": "clouds1", "position": [ 2000, -450 ], "scrollFactor": [ 0.15, 0.15 ] },
+		{ "type": "animated", "image": "lightning", "position": [ -9999, -9999 ], "scrollFactor": [ 0.15, 0.15 ], "animations": [
+			{ "name": "strike1", "animName": "Strike 1", "fps": 12, "loop": false },
+			{ "name": "strike2", "animName": "Strike 2", "fps": 12, "loop": false },
+			{ "name": "strike3", "animName": "Strike 3", "fps": 12, "loop": false },
+			{ "name": "strike4", "animName": "Strike 4", "fps": 12, "loop": false },
+			{ "name": "strike5", "animName": "Strike 5", "fps": 12, "loop": false },
+			{ "name": "strike6", "animName": "Strike 6", "fps": 12, "loop": false },
+			{ "name": "strike7", "animName": "Strike 7", "fps": 12, "loop": false }
+		], "startingAnim": "strike1" },
+		{ "type": "static", "image": "city", "position": [ -680, -150 ], "scale": [1.8, 1.8], "scrollFactor": [ 0.2, 0.2 ] },
+		{ "type": "static", "image": "cityLightning", "position": [ -680, -150 ], "scale": [1.8, 1.8], "scrollFactor": [ 0.2, 0.2 ] },
+		{ "type": "static", "id": "cloud4", "image": "clouds2", "position": [ -1000, -500 ], "scrollFactor": [ 0.2, 0.15 ] },
+		{ "type": "static", "id": "cloud5", "image": "clouds1", "position": [ 1000, -450 ], "scrollFactor": [ 0.2, 0.15 ] },
+		{ "type": "static", "image": "back", "position": [ -755, 266 ], "scrollFactor": [ 0.8, 0.9 ] },
+		{ "type": "sheet", "image": "backLightning", "position": [ -755, 266 ], "scrollFactor": [ 0.8, 0.9 ], "frames": [1, 2], "animations": [ { "name": "strike", "indices": [0, 1], "fps": 12, "loop": false } ], "startingAnim": "strike" },
+		{ "type": "static", "image": "objects", "position": [ 27, 165 ], "scrollFactor": [ 0.825, 0.9 ] },
+		{ "type": "sheet", "image": "objectsLightning", "position": [ 27, 165 ], "scrollFactor": [ 0.825, 0.9 ], "frames": [1, 2], "animations": [ { "name": "strike", "indices": [0, 1], "fps": 12, "loop": false } ], "startingAnim": "strike" },
+		{ "type": "static", "image": "board", "position": [ -527, 463 ], "scrollFactor": [ 0.9, 0.9 ] },
+		{ "type": "sheet", "image": "boardLightning", "position": [ -527, 463 ], "scrollFactor": [ 0.9, 0.9 ], "frames": [1, 2], "animations": [ { "name": "strike", "indices": [0, 1], "fps": 12, "loop": false } ], "startingAnim": "strike" },
+		{ "type": "static", "image": "DeadBoyfriend", "position": [ 1360, 480 ], "condition": "storyOnly" }
+	]
+}
